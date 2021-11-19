@@ -16,7 +16,7 @@ class MyApp extends StatefulWidget {
 class MyAppState extends State<MyApp> {
   List<Map<String, dynamic>> SavollarVaJavoblar = [
     {
-      "savol": "1. What--- your name?",
+      "savol": "1. What--- my name?",
       "javoblar": [
         {"matn": "are", "togrimi": false},
         {"matn": "is", "togrimi": true},
